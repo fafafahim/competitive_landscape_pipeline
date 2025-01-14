@@ -1,0 +1,12 @@
+aiohttp  
+asyncio  
+beautifulsoup4
+requests    
+bs4  
+python-dotenv  
+Pillow  
+playwright  
+pytesseract  
+urllib3  
+xmltodict
+openai
