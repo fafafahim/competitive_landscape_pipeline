@@ -1,9 +1,4 @@
 [  
   {"question": "Who are the company's main competitors?"},
-  {"question": "What is their single most important messaging to attact customers?"},
-  {"question": "How does their technology work?"}, 
-  {"question": "Who are their main competitors?"}, 
-  {"question": "Who is their CEO and what is their background?"},
-  {"question": "Who are the members of their board?"},
-  {"question": "Who are their current cutomers?"}
+  {"question": "What is their single most important messaging to attact customers?"}
 ]  
