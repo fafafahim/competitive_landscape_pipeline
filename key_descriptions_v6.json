@@ -3,11 +3,11 @@
     "Features": "What are the key features of the company’s product? List the specific capabilities or characteristics that define what the product does and how it works. Provide examples or pull quotes from the company’s website, or paraphrase their descriptions. Identify which features are commonplace, which are differentiators, and highlight any gaps in offerings compared to competitors.",
     "Clinical Function": "What clinical functions does the product perform or assist with? Describe the specific clinical tasks or processes the product supports.",
     "Positioning Vectors": "What attributes does the company emphasize in its marketing to stand apart from competitors? Identify the qualities or characteristics they highlight to show their strengths and explain how these resonate with their target audience. Highlight areas where the company excels or falls short, based on their claims and your observations. How does their offering compare to others in the market? Identify strengths, weaknesses, and areas where competitors may have an advantage.",
-    "Comparison to FRQ Technologies": {
-        "Overlap in Target Conditions": "Do they address the same chronic conditions (e.g., diabetes, hypertension) or a different spectrum of diseases?",
-        "AI & Technology Approach": "How does the competitor’s AI-driven approach compare to FRQ’s dynamic longitudinal models, protocol-driven logic, and EHR integration?",
-        "User Experience & Workflow Impact": "How does the competitor’s solution affect provider and patient workflows? Does it create burdens or streamline processes compared to FRQ?",
-        "Competitive Threats or Differentiators": "Where does the competitor pose the greatest challenge to FRQ? Conversely, where does FRQ have a clear advantage?"
+    "Comparison to YOUR COMPANY Technologies": {
+        "Overlap in scope": "Do they address the same ... ?",
+        "Differentiation": "How does the competitor’s AI-driven approach compare to YOUR COMPANY’s ... state the differentiation?",
+        "User Experience & Workflow Impact": "How does the comapny’s solution affect ... state the use case you are interested in?",
+        "Competitive Threats or Differentiators": "Where does the competitor pose the greatest challenge to YOUR COMPANY? Conversely, where does YOUR COMPANY have a clear advantage?"
     },
     "Company Overview": "What is the company’s mission or focus? Provide a concise overview of the company, including its size, location, and key areas of operation.",
     "Target Patient Population": "Who is the product designed to help? Specify the target patient population, including therapeutic areas, demographics, and specific patient needs the company aims to address.",
